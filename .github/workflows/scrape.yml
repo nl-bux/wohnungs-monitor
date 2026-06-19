@@ -5,6 +5,9 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -13,6 +16,8 @@ jobs:
     steps:
       - name: Repository auschecken
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Node.js einrichten
         uses: actions/setup-node@v4
@@ -23,13 +28,30 @@ jobs:
         working-directory: scraper
         run: npm install
 
-      - name: Playwright Chromium installieren
+      - name: Playwright + Stealth installieren
         working-directory: scraper
-        run: npx playwright install chromium --with-deps
+        run: |
+          npm install playwright-extra puppeteer-extra-plugin-stealth
+          npx playwright install chromium --with-deps
 
       - name: Scraper ausführen
         working-directory: scraper
         run: node scraper.js
+
+      - name: Ergebnisse anzeigen
+        run: |
+          echo "=== Ergebnis-Übersicht ==="
+          cat scraper/results/listings_latest.json | python3 -c "
+          import json,sys
+          d=json.load(sys.stdin)
+          print(f'Gefunden: {d.get(\"totalFound\",0)} Angebote')
+          print(f'Dauer: {round(d.get(\"durationMs\",0)/1000,1)}s')
+          from collections import Counter
+          q=Counter(l.get('quelle') for l in d.get('listings',[]))
+          for src,n in q.most_common(): print(f'  {n}x {src}')
+          print('Fehler:')
+          for e in d.get('errors',[]): print(f'  ! {e[\"scraper\"]}: {e[\"error\"][:80]}')
+          " || echo "Keine Datei gefunden"
 
       - name: Ergebnisse als Artefakt speichern
         uses: actions/upload-artifact@v4
@@ -38,12 +60,35 @@ jobs:
           path: scraper/results/
           if-no-files-found: warn
 
-      - name: Ergebnisse ins Repository committen
+      - name: Ergebnisse via GitHub API ins Repo schreiben
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p scraper/results
-          git add scraper/results/ || true
-          git diff --staged --quiet || git commit -m "auto: Listings aktualisiert $(date +'%Y-%m-%d')"
-          git push
-        continue-on-error: true
+          FILE="scraper/results/listings_latest.json"
+          if [ ! -f "$FILE" ]; then echo "Keine Ergebnisdatei"; exit 0; fi
+          
+          CONTENT=$(base64 -w 0 "$FILE")
+          SHA=$(curl -s \
+            -H "Authorization: token $GH_TOKEN" \
+            "https://api.github.com/repos/$REPO/contents/$FILE" | \
+            python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('sha',''))" 2>/dev/null || echo "")
+          
+          if [ -n "$SHA" ]; then
+            BODY=$(python3 -c "import json; print(json.dumps({'message':'auto: listings $(date +%Y-%m-%d)','content':'$CONTENT','sha':'$SHA'}))")
+          else
+            BODY=$(python3 -c "import json; print(json.dumps({'message':'auto: listings $(date +%Y-%m-%d)','content':'$CONTENT'}))")
+          fi
+          
+          RESULT=$(curl -s -X PUT \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/contents/$FILE" \
+            -d "$BODY")
+          
+          echo "$RESULT" | python3 -c "
+          import json,sys
+          d=json.load(sys.stdin)
+          if 'content' in d: print('✓ listings_latest.json erfolgreich gespeichert')
+          else: print('✗ Fehler:', d.get('message',''))
+          "
