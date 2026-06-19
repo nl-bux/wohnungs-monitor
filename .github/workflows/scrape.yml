@@ -1,0 +1,51 @@
+name: Täglicher Wohnungs-Scraper
+
+on:
+  schedule:
+    # Täglich um 07:00 Uhr (UTC+1 = 06:00 UTC)
+    - cron: "0 6 * * *"
+  workflow_dispatch:   # Manuelle Ausführung per Klick möglich
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: wohnungs-scraper/package.json
+
+      - name: Abhängigkeiten installieren
+        working-directory: wohnungs-scraper
+        run: npm ci
+
+      - name: Playwright Chromium installieren
+        working-directory: wohnungs-scraper
+        run: npx playwright install chromium --with-deps
+
+      - name: Scraper ausführen
+        working-directory: wohnungs-scraper
+        run: node scraper.js
+
+      - name: Ergebnisse als Artefakt speichern
+        uses: actions/upload-artifact@v4
+        with:
+          name: listings-${{ github.run_id }}
+          path: wohnungs-scraper/results/
+
+      # Optional: Ergebnisse ins Repository committen
+      - name: Ergebnisse committen (optional)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add wohnungs-scraper/results/listings_latest.json
+          git diff --staged --quiet || git commit -m "auto: Listings aktualisiert $(date +'%Y-%m-%d')"
+          git push
+        continue-on-error: true
