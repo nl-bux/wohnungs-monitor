@@ -1,0 +1,13 @@
+{
+  "name": "wohnungs-scraper",
+  "version": "1.0.0",
+  "description": "Daily scraper for Frankfurt & Mainz rental apartments",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "install-browser": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
