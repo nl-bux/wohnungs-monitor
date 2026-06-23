@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-22T11:34:27.650Z",
-  "durationMs": 124989,
+  "timestamp": "2026-06-23T08:59:08.539Z",
+  "durationMs": 145113,
   "totalFound": 30,
   "criteria": {
     "minRooms": 3,
@@ -12,6 +12,10 @@
     {
       "scraper": "VonPoll",
       "error": "page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.von-poll.com/de/wohnung-mieten/frankfurt\", waiting until \"networkidle\"\n"
+    },
+    {
+      "scraper": "WohnbauMainz",
+      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.wohnbau-mainz.de/wohnungsangebote\nCall log:\n  - navigating to \"https://www.wohnbau-mainz.de/wohnungsangebote\", waiting until \"networkidle\"\n"
     }
   ],
   "listings": [
