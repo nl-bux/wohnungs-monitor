@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-23T08:59:08.539Z",
-  "durationMs": 145113,
-  "totalFound": 30,
+  "timestamp": "2026-06-24T08:54:04.323Z",
+  "durationMs": 137701,
+  "totalFound": 29,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -12,10 +12,6 @@
     {
       "scraper": "VonPoll",
       "error": "page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.von-poll.com/de/wohnung-mieten/frankfurt\", waiting until \"networkidle\"\n"
-    },
-    {
-      "scraper": "WohnbauMainz",
-      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.wohnbau-mainz.de/wohnungsangebote\nCall log:\n  - navigating to \"https://www.wohnbau-mainz.de/wohnungsangebote\", waiting until \"networkidle\"\n"
     }
   ],
   "listings": [
@@ -467,7 +463,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 46.1,
       "ampel": "Überteuert",
-      "_id": "ball-24"
+      "_id": "ball-23"
     },
     {
       "titel": "Ruhe und Erholung: 3-Zimmer-Wohnung am Rebstockpark",
@@ -506,24 +502,6 @@
       "_id": "ball-21"
     },
     {
-      "titel": "Charmante 3-Zimmer-Altstadtwohnung mit viel Licht und moderner Ausstattung",
-      "url": "https://www.ballwanz.de/objekt/charmante-3-zimmer-altstadtwohnung-mit-viel-licht-und-moderner-ausstattung/",
-      "groesse": 91,
-      "zimmer": 3,
-      "kaltmiete": 2350,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2350,
-      "stadtteil": "Altstadt",
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 25.82,
-      "mietspiegelRef": 18.5,
-      "preisAbweichungPct": 39.6,
-      "ampel": "Überteuert",
-      "_id": "ball-22"
-    },
-    {
       "titel": "4-Zimmer-Wohnung in Frankfurt-Bockenheim ideal für Familien",
       "url": "https://www.ballwanz.de/objekt/4-zimmer-wohnung-in-frankfurt-bockenheim-ideal-fuer-familien/",
       "groesse": 111,
@@ -539,7 +517,7 @@
       "mietspiegelRef": 15.8,
       "preisAbweichungPct": 36.3,
       "ampel": "Überteuert",
-      "_id": "ball-23"
+      "_id": "ball-22"
     },
     {
       "titel": "WOHNUNG • MIETEN\nAparthotel Parkallee",
