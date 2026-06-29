@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-28T08:41:38.930Z",
-  "durationMs": 134478,
-  "totalFound": 27,
+  "timestamp": "2026-06-29T10:21:45.041Z",
+  "durationMs": 122451,
+  "totalFound": 28,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -88,6 +88,24 @@
       "_id": "moli-3"
     },
     {
+      "titel": "Großzügiges 3-Zimmer-Penthouse mit Einbauküche und Dachterrasse",
+      "url": "https://www.ballwanz.de/objekt/grosszuegiges-3-zimmer-penthouse-mit-einbaukueche-und-dachterrasse/",
+      "groesse": 102,
+      "zimmer": 3,
+      "kaltmiete": 1519,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1519,
+      "stadtteil": null,
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 14.89,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": -4.5,
+      "ampel": "Günstig",
+      "_id": "ball-0"
+    },
+    {
       "titel": "Neubau Erstbezug: Einziehen und Wohlfühlen im PARK TRIO STADTPLATZ",
       "url": "https://www.ballwanz.de/objekt/neubau-erstbezug-einziehen-und-wohlfuehlen-im-park-trio-stadtplatz/",
       "groesse": 80,
@@ -103,7 +121,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 50.3,
       "ampel": "Überteuert",
-      "_id": "ball-0"
+      "_id": "ball-1"
     },
     {
       "titel": "Neubau Erstbezug: Einziehen und Wohlfühlen im PARKTRIO STADTPLATZ",
@@ -121,7 +139,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 46.4,
       "ampel": "Überteuert",
-      "_id": "ball-1"
+      "_id": "ball-2"
     },
     {
       "titel": "Viel Raum zum Wohlfühlen: 3-Zimmer-Wohnung mit Balkon im Rebstockviertel",
@@ -139,7 +157,7 @@
       "mietspiegelRef": 14.5,
       "preisAbweichungPct": 47.5,
       "ampel": "Überteuert",
-      "_id": "ball-2"
+      "_id": "ball-3"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung in beliebter Lage am Westhafen",
@@ -157,7 +175,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 24.6,
       "ampel": "Überteuert",
-      "_id": "ball-3"
+      "_id": "ball-4"
     },
     {
       "titel": "Westhafen: Großzügige 3-Zimmer-Wohnung mit ruhig gelegener West-Terrasse",
@@ -175,7 +193,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 11.1,
       "ampel": "Leicht erhöht",
-      "_id": "ball-8"
+      "_id": "ball-9"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung in begehrter Lage am Westhafen mit EBK, Balkon & son",
@@ -193,7 +211,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 26.8,
       "ampel": "Überteuert",
-      "_id": "ball-5"
+      "_id": "ball-6"
     },
     {
       "titel": "Wohnen am Westhafen: Helle 3-Zimmer-Wohnung mit Balkon & Loggia",
@@ -211,7 +229,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 27.7,
       "ampel": "Überteuert",
-      "_id": "ball-4"
+      "_id": "ball-5"
     },
     {
       "titel": "Speicherquartier: Großzügige 3 Zi.-Wohnung mit Balkon und Loggia",
@@ -229,7 +247,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 31.7,
       "ampel": "Überteuert",
-      "_id": "ball-9"
+      "_id": "ball-10"
     },
     {
       "titel": "Attraktives Penthouse mit Charme und Charakter im Rebstockviertel",
@@ -247,7 +265,7 @@
       "mietspiegelRef": 14.5,
       "preisAbweichungPct": 62.3,
       "ampel": "Überteuert",
-      "_id": "ball-6"
+      "_id": "ball-7"
     },
     {
       "titel": "Neubaucharme: Stilvolle 3-Zimmer-Wohnung im PARKTRIO",
@@ -265,7 +283,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 48,
       "ampel": "Überteuert",
-      "_id": "ball-7"
+      "_id": "ball-8"
     },
     {
       "titel": "Moderne 3-Zimmer-Wohnung mit großer Loggia und viel Licht",
@@ -283,7 +301,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 38.7,
       "ampel": "Überteuert",
-      "_id": "ball-11"
+      "_id": "ball-12"
     },
     {
       "titel": "Speicher Quartier: Wohnen mit Stil und Flair im beliebten Westhafen",
@@ -301,7 +319,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 35.9,
       "ampel": "Überteuert",
-      "_id": "ball-12"
+      "_id": "ball-13"
     },
     {
       "titel": "3-Zimmer-Wohnung mit Loggia und viel Platz zum Wohlfühlen",
@@ -319,7 +337,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 43.7,
       "ampel": "Überteuert",
-      "_id": "ball-10"
+      "_id": "ball-11"
     },
     {
       "titel": "3-Zimmer-Wohnung mit Home-Office und Balkon",
@@ -337,7 +355,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 53.7,
       "ampel": "Überteuert",
-      "_id": "ball-13"
+      "_id": "ball-14"
     },
     {
       "titel": "Drei Zimmer, eine Loggia und viel Licht",
@@ -355,7 +373,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 47.9,
       "ampel": "Überteuert",
-      "_id": "ball-14"
+      "_id": "ball-15"
     },
     {
       "titel": "Neue Räume, neues Glück: Geräumige 4- Zimmer-Wohnung mit sonnigem Balkon",
@@ -373,7 +391,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 45.3,
       "ampel": "Überteuert",
-      "_id": "ball-15"
+      "_id": "ball-16"
     },
     {
       "titel": "Erstbezug: Stilvolle 3-Zimmer-Wohnung",
@@ -391,7 +409,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 37.1,
       "ampel": "Überteuert",
-      "_id": "ball-16"
+      "_id": "ball-17"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung am Westhafen mit Balkon und Loggia",
@@ -409,7 +427,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 42.8,
       "ampel": "Überteuert",
-      "_id": "ball-17"
+      "_id": "ball-18"
     },
     {
       "titel": "Moderne 3-Zimmer Wohnung mit Sonnenterasse in direkter Mainlage",
@@ -427,7 +445,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 46.1,
       "ampel": "Überteuert",
-      "_id": "ball-21"
+      "_id": "ball-22"
     },
     {
       "titel": "Ruhe und Erholung: 3-Zimmer-Wohnung am Rebstockpark",
@@ -445,7 +463,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 47.5,
       "ampel": "Überteuert",
-      "_id": "ball-18"
+      "_id": "ball-19"
     },
     {
       "titel": "Neubaucharme pur: helle 4-Zimmer-Wohnung mit Balkon",
@@ -463,7 +481,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 44.6,
       "ampel": "Überteuert",
-      "_id": "ball-19"
+      "_id": "ball-20"
     },
     {
       "titel": "4-Zimmer-Wohnung in Frankfurt-Bockenheim ideal für Familien",
@@ -481,7 +499,7 @@
       "mietspiegelRef": 15.8,
       "preisAbweichungPct": 36.3,
       "ampel": "Überteuert",
-      "_id": "ball-20"
+      "_id": "ball-21"
     },
     {
       "titel": "WOHNUNG • MIETEN\nAparthotel Parkallee",
