@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-30T08:56:44.191Z",
-  "durationMs": 141017,
+  "timestamp": "2026-07-01T09:29:46.439Z",
+  "durationMs": 130284,
   "totalFound": 27,
   "criteria": {
     "minRooms": 3,
@@ -175,7 +175,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 11.1,
       "ampel": "Leicht erhöht",
-      "_id": "ball-8"
+      "_id": "ball-9"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung in begehrter Lage am Westhafen mit EBK, Balkon & son",
@@ -196,6 +196,24 @@
       "_id": "ball-5"
     },
     {
+      "titel": "Speicherquartier: Großzügige 3 Zi.-Wohnung mit Balkon und Loggia",
+      "url": "https://www.ballwanz.de/objekt/speicherquartier-grosszuegige-3-zi-wohnung-mit-balkon-und-loggia/",
+      "groesse": 102,
+      "zimmer": null,
+      "kaltmiete": 1985,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1985,
+      "stadtteil": null,
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 19.46,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 24.8,
+      "ampel": "Überteuert",
+      "_id": "ball-6"
+    },
+    {
       "titel": "Wohnen am Westhafen: Helle 3-Zimmer-Wohnung mit Balkon & Loggia",
       "url": "https://www.ballwanz.de/objekt/wohnen-am-westhafen-helle-3-zimmer-wohnung-mit-balkon-loggia/",
       "groesse": 101,
@@ -214,24 +232,6 @@
       "_id": "ball-4"
     },
     {
-      "titel": "Speicherquartier: Großzügige 3 Zi.-Wohnung mit Balkon und Loggia",
-      "url": "https://www.ballwanz.de/objekt/speicherquartier-grosszuegige-3-zi-wohnung-mit-balkon-und-loggia/",
-      "groesse": 102,
-      "zimmer": null,
-      "kaltmiete": 2094,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2094,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 20.53,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 31.7,
-      "ampel": "Überteuert",
-      "_id": "ball-9"
-    },
-    {
       "titel": "Attraktives Penthouse mit Charme und Charakter im Rebstockviertel",
       "url": "https://www.ballwanz.de/objekt/attraktives-penthouse-mit-charme-und-charakter-im-rebstockviertel/",
       "groesse": 89,
@@ -247,7 +247,7 @@
       "mietspiegelRef": 14.5,
       "preisAbweichungPct": 62.3,
       "ampel": "Überteuert",
-      "_id": "ball-6"
+      "_id": "ball-7"
     },
     {
       "titel": "Neubaucharme: Stilvolle 3-Zimmer-Wohnung im PARKTRIO",
@@ -265,7 +265,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 48,
       "ampel": "Überteuert",
-      "_id": "ball-7"
+      "_id": "ball-8"
     },
     {
       "titel": "Moderne 3-Zimmer-Wohnung mit großer Loggia und viel Licht",
