@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-30T08:07:28.552Z",
-  "durationMs": 124510,
-  "totalFound": 27,
+  "timestamp": "2026-07-31T08:33:18.981Z",
+  "durationMs": 130312,
+  "totalFound": 26,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -88,6 +88,78 @@
       "_id": "moli-3"
     },
     {
+      "titel": "Großzügige 3-Zimmer-Wohnung in begehrter Lage am Westhafen mit EBK, Balkon & son",
+      "url": "https://www.ballwanz.de/objekt/grosszuegige-3-zimmer-wohnung-in-begehrter-lage-am-westhafen-mit-ebk-balkon-sonniger-loggia/",
+      "groesse": 101,
+      "zimmer": 3,
+      "kaltmiete": 1677,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1677,
+      "stadtteil": "Westhafen",
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 16.6,
+      "mietspiegelRef": 15.5,
+      "preisAbweichungPct": 7.1,
+      "ampel": "Marktüblich",
+      "_id": "ball-0"
+    },
+    {
+      "titel": "Wohnen am Westhafen: Helle 3-Zimmer-Wohnung mit Balkon & Loggia",
+      "url": "https://www.ballwanz.de/objekt/wohnen-am-westhafen-helle-3-zimmer-wohnung-mit-balkon-loggia/",
+      "groesse": 101,
+      "zimmer": 3,
+      "kaltmiete": 1735,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1735,
+      "stadtteil": "Westhafen",
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 17.18,
+      "mietspiegelRef": 15.5,
+      "preisAbweichungPct": 10.8,
+      "ampel": "Leicht erhöht",
+      "_id": "ball-1"
+    },
+    {
+      "titel": "Speicher Quartier: Wohnen mit Stil und Flair im beliebten Westhafen",
+      "url": "https://www.ballwanz.de/objekt/speicher-quartier-wohnen-mit-stil-und-flair-im-beliebten-westhafen/",
+      "groesse": 102,
+      "zimmer": null,
+      "kaltmiete": 1749,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1749,
+      "stadtteil": "Westhafen",
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 17.15,
+      "mietspiegelRef": 15.5,
+      "preisAbweichungPct": 10.6,
+      "ampel": "Leicht erhöht",
+      "_id": "ball-2"
+    },
+    {
+      "titel": "Speicherquartier: Großzügige 3 Zi.-Wohnung mit Balkon und Loggia",
+      "url": "https://www.ballwanz.de/objekt/speicherquartier-grosszuegige-3-zi-wohnung-mit-balkon-und-loggia/",
+      "groesse": 102,
+      "zimmer": null,
+      "kaltmiete": 1764,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1764,
+      "stadtteil": null,
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 17.29,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 10.9,
+      "ampel": "Leicht erhöht",
+      "_id": "ball-4"
+    },
+    {
       "titel": "Neubau Erstbezug: Einziehen und Wohlfühlen im PARK TRIO STADTPLATZ",
       "url": "https://www.ballwanz.de/objekt/neubau-erstbezug-einziehen-und-wohlfuehlen-im-park-trio-stadtplatz/",
       "groesse": 80,
@@ -103,7 +175,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 50.3,
       "ampel": "Überteuert",
-      "_id": "ball-0"
+      "_id": "ball-3"
     },
     {
       "titel": "Neubau Erstbezug: Einziehen und Wohlfühlen im PARKTRIO STADTPLATZ",
@@ -121,7 +193,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 46.4,
       "ampel": "Überteuert",
-      "_id": "ball-1"
+      "_id": "ball-5"
     },
     {
       "titel": "Viel Raum zum Wohlfühlen: 3-Zimmer-Wohnung mit Balkon im Rebstockviertel",
@@ -138,42 +210,6 @@
       "preisProQm": 21.39,
       "mietspiegelRef": 14.5,
       "preisAbweichungPct": 47.5,
-      "ampel": "Überteuert",
-      "_id": "ball-2"
-    },
-    {
-      "titel": "Großzügige 3-Zimmer-Wohnung in begehrter Lage am Westhafen mit EBK, Balkon & son",
-      "url": "https://www.ballwanz.de/objekt/grosszuegige-3-zimmer-wohnung-in-begehrter-lage-am-westhafen-mit-ebk-balkon-sonniger-loggia/",
-      "groesse": 101,
-      "zimmer": 3,
-      "kaltmiete": 1985,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 1985,
-      "stadtteil": "Westhafen",
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 19.65,
-      "mietspiegelRef": 15.5,
-      "preisAbweichungPct": 26.8,
-      "ampel": "Überteuert",
-      "_id": "ball-5"
-    },
-    {
-      "titel": "Speicherquartier: Großzügige 3 Zi.-Wohnung mit Balkon und Loggia",
-      "url": "https://www.ballwanz.de/objekt/speicherquartier-grosszuegige-3-zi-wohnung-mit-balkon-und-loggia/",
-      "groesse": 102,
-      "zimmer": null,
-      "kaltmiete": 1985,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 1985,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 19.46,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 24.8,
       "ampel": "Überteuert",
       "_id": "ball-6"
     },
@@ -193,25 +229,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 40.3,
       "ampel": "Überteuert",
-      "_id": "ball-3"
-    },
-    {
-      "titel": "Wohnen am Westhafen: Helle 3-Zimmer-Wohnung mit Balkon & Loggia",
-      "url": "https://www.ballwanz.de/objekt/wohnen-am-westhafen-helle-3-zimmer-wohnung-mit-balkon-loggia/",
-      "groesse": 101,
-      "zimmer": 3,
-      "kaltmiete": 1999,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 1999,
-      "stadtteil": "Westhafen",
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 19.79,
-      "mietspiegelRef": 15.5,
-      "preisAbweichungPct": 27.7,
-      "ampel": "Überteuert",
-      "_id": "ball-4"
+      "_id": "ball-7"
     },
     {
       "titel": "Attraktives Penthouse mit Charme und Charakter im Rebstockviertel",
@@ -229,7 +247,7 @@
       "mietspiegelRef": 14.5,
       "preisAbweichungPct": 62.3,
       "ampel": "Überteuert",
-      "_id": "ball-7"
+      "_id": "ball-8"
     },
     {
       "titel": "Neubaucharme: Stilvolle 3-Zimmer-Wohnung im PARKTRIO",
@@ -247,7 +265,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 48,
       "ampel": "Überteuert",
-      "_id": "ball-8"
+      "_id": "ball-9"
     },
     {
       "titel": "Sonnige 4-Zimmer-Wohnung mit großzügigem Wohnbereich, Kamin und zwei Südterrasse",
@@ -283,24 +301,6 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 38.7,
       "ampel": "Überteuert",
-      "_id": "ball-10"
-    },
-    {
-      "titel": "Speicher Quartier: Wohnen mit Stil und Flair im beliebten Westhafen",
-      "url": "https://www.ballwanz.de/objekt/speicher-quartier-wohnen-mit-stil-und-flair-im-beliebten-westhafen/",
-      "groesse": 102,
-      "zimmer": null,
-      "kaltmiete": 2148,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2148,
-      "stadtteil": "Westhafen",
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 21.06,
-      "mietspiegelRef": 15.5,
-      "preisAbweichungPct": 35.9,
-      "ampel": "Überteuert",
       "_id": "ball-11"
     },
     {
@@ -319,7 +319,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 43.7,
       "ampel": "Überteuert",
-      "_id": "ball-9"
+      "_id": "ball-10"
     },
     {
       "titel": "3-Zimmer-Wohnung mit Home-Office und Balkon",
@@ -410,24 +410,6 @@
       "preisAbweichungPct": 42.8,
       "ampel": "Überteuert",
       "_id": "ball-16"
-    },
-    {
-      "titel": "Moderne 3-Zimmer Wohnung mit Sonnenterasse in direkter Mainlage",
-      "url": "https://www.ballwanz.de/objekt/moderne-3-zimmer-wohnung-mit-sonnenterasse-in-direkter-mainlage/",
-      "groesse": 101,
-      "zimmer": 3,
-      "kaltmiete": 2300,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2300,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 22.77,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 46.1,
-      "ampel": "Überteuert",
-      "_id": "ball-21"
     },
     {
       "titel": "Ruhe und Erholung: 3-Zimmer-Wohnung am Rebstockpark",
