@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-07T07:00:48.854Z",
-  "durationMs": 126292,
-  "totalFound": 27,
+  "timestamp": "2026-08-08T06:34:40.509Z",
+  "durationMs": 122188,
+  "totalFound": 26,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -283,7 +283,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 10,
       "ampel": "Leicht erhöht",
-      "_id": "ball-19"
+      "_id": "ball-18"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Sonnenbalkon",
@@ -376,24 +376,6 @@
       "_id": "ball-14"
     },
     {
-      "titel": "Erstbezug: Stilvolle 3-Zimmer-Wohnung",
-      "url": "https://www.ballwanz.de/objekt/erstbezug-stilvolle-3-zimmer-wohnung/",
-      "groesse": 105,
-      "zimmer": 3,
-      "kaltmiete": 2245,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2245,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 21.38,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 37.1,
-      "ampel": "Überteuert",
-      "_id": "ball-16"
-    },
-    {
       "titel": "Familienfreundliche 4-Zimmer-Wohnung in Frankfurt-Bockenheim",
       "url": "https://www.ballwanz.de/objekt/familienfreundliche-4-zimmer-wohnung-in-frankfurt-bockenheim/",
       "groesse": 98,
@@ -427,7 +409,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 42.8,
       "ampel": "Überteuert",
-      "_id": "ball-18"
+      "_id": "ball-17"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Loggia im Rebstock-Areal",
@@ -445,7 +427,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 53,
       "ampel": "Überteuert",
-      "_id": "ball-17"
+      "_id": "ball-16"
     },
     {
       "titel": "Offenes Wohnen und Privatsphäre – durchdachte 4-Zimmer-Wohnung",
@@ -463,7 +445,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 44.3,
       "ampel": "Überteuert",
-      "_id": "ball-20"
+      "_id": "ball-19"
     },
     {
       "titel": "Ruhe und Erholung: 3-Zimmer-Wohnung am Rebstockpark",
@@ -481,7 +463,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 47.5,
       "ampel": "Überteuert",
-      "_id": "ball-21"
+      "_id": "ball-20"
     },
     {
       "titel": "WOHNUNG • MIETEN\nAparthotel Parkallee",
