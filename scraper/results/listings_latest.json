@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-13T07:11:48.452Z",
-  "durationMs": 131539,
-  "totalFound": 28,
+  "timestamp": "2026-08-14T07:08:05.506Z",
+  "durationMs": 135135,
+  "totalFound": 26,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -286,24 +286,6 @@
       "_id": "ball-10"
     },
     {
-      "titel": "Neubaucharme: Stilvolle 3-Zimmer-Wohnung im PARKTRIO",
-      "url": "https://www.ballwanz.de/objekt/neubaucharme-stilvolle-3-zimmer-wohnung-im-parktrio/",
-      "groesse": 91,
-      "zimmer": 3,
-      "kaltmiete": 2100,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2100,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 23.08,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 48,
-      "ampel": "Überteuert",
-      "_id": "ball-11"
-    },
-    {
       "titel": "Sonnige 4-Zimmer-Wohnung mit großzügigem Wohnbereich, Kamin und zwei Südterrasse",
       "url": "https://www.ballwanz.de/objekt/sonnige-4-zimmer-wohnung-mit-grosszuegigem-wohnbereich-kamin-und-zwei-suedterrassen/",
       "groesse": 123,
@@ -319,7 +301,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 10,
       "ampel": "Leicht erhöht",
-      "_id": "ball-20"
+      "_id": "ball-19"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Sonnenbalkon",
@@ -337,25 +319,25 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 50.1,
       "ampel": "Überteuert",
-      "_id": "ball-12"
+      "_id": "ball-11"
     },
     {
-      "titel": "Moderne 3-Zimmer-Wohnung mit großer Loggia und viel Licht",
-      "url": "https://www.ballwanz.de/objekt/moderne-3-zimmer-wohnung-mit-grosser-loggia-und-viel-licht/",
-      "groesse": 99,
-      "zimmer": 3,
-      "kaltmiete": 2140,
+      "titel": "STADTPLATZ: Helle Wohnung mit durchdachtem Grundriss und Balkon",
+      "url": "https://www.ballwanz.de/objekt/stadtplatz-helle-wohnung-mit-durchdachtem-grundriss-und-balkon/",
+      "groesse": 95,
+      "zimmer": null,
+      "kaltmiete": 2150,
       "nebenkosten": null,
       "heizkosten": null,
-      "gesamtpreis": 2140,
+      "gesamtpreis": 2150,
       "stadtteil": null,
       "stadt": "Frankfurt",
       "quelle": "Ballwanz Immobilien",
-      "preisProQm": 21.62,
+      "preisProQm": 22.63,
       "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 38.7,
+      "preisAbweichungPct": 45.2,
       "ampel": "Überteuert",
-      "_id": "ball-14"
+      "_id": "ball-12"
     },
     {
       "titel": "3-Zimmer-Wohnung mit Loggia und viel Platz zum Wohlfühlen",
@@ -391,25 +373,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 47.9,
       "ampel": "Überteuert",
-      "_id": "ball-15"
-    },
-    {
-      "titel": "Neue Räume, neues Glück: Geräumige 4- Zimmer-Wohnung mit sonnigem Balkon",
-      "url": "https://www.ballwanz.de/objekt/neue-raeume-neues-glueck-geraeumige-4-zimmer-wohnung-mit-sonnigem-balkon/",
-      "groesse": 98,
-      "zimmer": null,
-      "kaltmiete": 2220,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2220,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 22.65,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 45.3,
-      "ampel": "Überteuert",
-      "_id": "ball-16"
+      "_id": "ball-14"
     },
     {
       "titel": "Familienfreundliche 4-Zimmer-Wohnung in Frankfurt-Bockenheim",
@@ -427,7 +391,7 @@
       "mietspiegelRef": 15.8,
       "preisAbweichungPct": 45.3,
       "ampel": "Überteuert",
-      "_id": "ball-17"
+      "_id": "ball-15"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung am Westhafen mit Balkon und Loggia",
@@ -445,7 +409,25 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 42.8,
       "ampel": "Überteuert",
-      "_id": "ball-19"
+      "_id": "ball-18"
+    },
+    {
+      "titel": "Großzügige 4-Zimmer-Wohnung mit Balkon und viel Platz für die Familie",
+      "url": "https://www.ballwanz.de/objekt/grosszuegige-4-zimmer-wohnung-mit-balkon-und-viel-platz-fuer-die-familie/",
+      "groesse": 102,
+      "zimmer": 4,
+      "kaltmiete": 2280,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 2280,
+      "stadtteil": null,
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 22.35,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 43.4,
+      "ampel": "Überteuert",
+      "_id": "ball-17"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Loggia im Rebstock-Areal",
@@ -463,25 +445,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 53,
       "ampel": "Überteuert",
-      "_id": "ball-18"
-    },
-    {
-      "titel": "Offenes Wohnen und Privatsphäre – durchdachte 4-Zimmer-Wohnung",
-      "url": "https://www.ballwanz.de/objekt/offenes-wohnen-und-privatsphaere-durchdachte-4-zimmer-wohnung/",
-      "groesse": 104,
-      "zimmer": 4,
-      "kaltmiete": 2340,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2340,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 22.5,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 44.3,
-      "ampel": "Überteuert",
-      "_id": "ball-21"
+      "_id": "ball-16"
     },
     {
       "titel": "Ruhe und Erholung: 3-Zimmer-Wohnung am Rebstockpark",
@@ -499,7 +463,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 47.5,
       "ampel": "Überteuert",
-      "_id": "ball-22"
+      "_id": "ball-20"
     },
     {
       "titel": "WOHNUNG • MIETEN\nAparthotel Parkallee",
