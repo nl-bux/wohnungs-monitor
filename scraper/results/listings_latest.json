@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-25T06:27:16.909Z",
-  "durationMs": 120923,
+  "timestamp": "2026-08-26T06:29:31.983Z",
+  "durationMs": 125628,
   "totalFound": 26,
   "criteria": {
     "minRooms": 3,
@@ -250,8 +250,8 @@
       "_id": "ball-9"
     },
     {
-      "titel": "Ein Zuhause zum Ankommen – traumhafte 3-Zimmer-Wohnung mit durchdachtem Raumkonz",
-      "url": "https://www.ballwanz.de/objekt/ein-zuhause-zum-ankommen-traumhafte-3-zimmer-wohnung-mit-durchdachtem-raumkonzept/",
+      "titel": "Helle 3-Zimmer-Wohnung mit großzügigem Balkon und idealer Anbindung",
+      "url": "https://www.ballwanz.de/objekt/helle-3-zimmer-wohnung-mit-grosszuegigem-balkon-und-idealer-anbindung/",
       "groesse": 91,
       "zimmer": 3,
       "kaltmiete": 1990,
