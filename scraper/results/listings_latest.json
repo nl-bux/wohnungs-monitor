@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-03T10:20:42.004Z",
-  "durationMs": 136077,
-  "totalFound": 25,
+  "timestamp": "2026-09-04T10:17:08.408Z",
+  "durationMs": 128075,
+  "totalFound": 23,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -250,24 +250,6 @@
       "_id": "ball-8"
     },
     {
-      "titel": "Attraktives Penthouse mit Charme und Charakter im Rebstockviertel",
-      "url": "https://www.ballwanz.de/objekt/attraktives-penthouse-mit-charme-und-charakter-im-rebstockviertel/",
-      "groesse": 89,
-      "zimmer": null,
-      "kaltmiete": 2095,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2095,
-      "stadtteil": "Rebstockviertel",
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 23.54,
-      "mietspiegelRef": 14.5,
-      "preisAbweichungPct": 62.3,
-      "ampel": "Überteuert",
-      "_id": "ball-9"
-    },
-    {
       "titel": "Ruhiges Zuhause mit offenem Wohngefühl: 4-Zimmer-Wohnung mit Kamin und zwei Süd-",
       "url": "https://www.ballwanz.de/objekt/ruhiges-zuhause-mit-offenem-wohngefuehl-4-zimmer-wohnung-mit-kamin-und-zwei-sued-terrassen/",
       "groesse": 123,
@@ -283,7 +265,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 10,
       "ampel": "Leicht erhöht",
-      "_id": "ball-18"
+      "_id": "ball-17"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Sonnenbalkon",
@@ -301,7 +283,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 50.1,
       "ampel": "Überteuert",
-      "_id": "ball-10"
+      "_id": "ball-9"
     },
     {
       "titel": "STADTPLATZ: Helle Wohnung mit durchdachtem Grundriss und Balkon",
@@ -319,7 +301,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 45.2,
       "ampel": "Überteuert",
-      "_id": "ball-11"
+      "_id": "ball-10"
     },
     {
       "titel": "3-Zimmer-Wohnung mit Loggia und viel Platz zum Wohlfühlen",
@@ -337,7 +319,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 43.7,
       "ampel": "Überteuert",
-      "_id": "ball-12"
+      "_id": "ball-11"
     },
     {
       "titel": "Drei Zimmer, eine Loggia und viel Licht",
@@ -355,7 +337,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 47.9,
       "ampel": "Überteuert",
-      "_id": "ball-13"
+      "_id": "ball-12"
     },
     {
       "titel": "Familienfreundliche 4-Zimmer-Wohnung in Frankfurt-Bockenheim",
@@ -373,7 +355,7 @@
       "mietspiegelRef": 15.8,
       "preisAbweichungPct": 45.3,
       "ampel": "Überteuert",
-      "_id": "ball-14"
+      "_id": "ball-13"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung am Westhafen mit Balkon und Loggia",
@@ -391,7 +373,7 @@
       "mietspiegelRef": 15.5,
       "preisAbweichungPct": 42.8,
       "ampel": "Überteuert",
-      "_id": "ball-17"
+      "_id": "ball-16"
     },
     {
       "titel": "Großzügige 4-Zimmer-Wohnung mit Balkon und viel Platz für die Familie",
@@ -409,7 +391,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 43.4,
       "ampel": "Überteuert",
-      "_id": "ball-16"
+      "_id": "ball-15"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Loggia im Rebstock-Areal",
@@ -427,25 +409,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 53,
       "ampel": "Überteuert",
-      "_id": "ball-15"
-    },
-    {
-      "titel": "Ruhe und Erholung: 3-Zimmer-Wohnung am Rebstockpark",
-      "url": "https://www.ballwanz.de/objekt/ruhe-und-erholung-3-zimmer-wohnung-am-rebstockpark/",
-      "groesse": 102,
-      "zimmer": 3,
-      "kaltmiete": 2345,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2345,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 22.99,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 47.5,
-      "ampel": "Überteuert",
-      "_id": "ball-19"
+      "_id": "ball-14"
     },
     {
       "titel": "WOHNUNG • MIETEN\nAparthotel Parkallee",
