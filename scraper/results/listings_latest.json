@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-08T10:16:05.026Z",
-  "durationMs": 134724,
-  "totalFound": 22,
+  "timestamp": "2026-09-09T10:20:15.184Z",
+  "durationMs": 126417,
+  "totalFound": 21,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -392,22 +392,6 @@
       "preisAbweichungPct": 53,
       "ampel": "Überteuert",
       "_id": "ball-13"
-    },
-    {
-      "titel": "WOHNUNG • MIETEN\nAparthotel Parkallee",
-      "url": "https://www.molitor-immobilien.de/objekt/aparthotel-budenheim/",
-      "groesse": 107,
-      "zimmer": 3,
-      "kaltmiete": null,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": null,
-      "stadtteil": null,
-      "stadt": "Mainz",
-      "quelle": "J. Molitor Immobilien",
-      "ampel": null,
-      "preisProQm": null,
-      "_id": "moli-4"
     }
   ]
 }
