@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-27T11:00:32.942Z",
-  "durationMs": 130995,
-  "totalFound": 42,
+  "timestamp": "2026-09-28T12:17:05.675Z",
+  "durationMs": 122864,
+  "totalFound": 40,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -15,42 +15,6 @@
     }
   ],
   "listings": [
-    {
-      "titel": "WOHNUNG • MIETEN\nHildegardis – Die Stadtoase",
-      "url": "https://www.molitor-immobilien.de/objekt/hildegardis-die-stadtoase/",
-      "groesse": 135,
-      "zimmer": 4,
-      "kaltmiete": 490,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 490,
-      "stadtteil": null,
-      "stadt": "Mainz",
-      "quelle": "J. Molitor Immobilien",
-      "preisProQm": 3.63,
-      "mietspiegelRef": 15.37,
-      "preisAbweichungPct": -76.4,
-      "ampel": "Günstig",
-      "_id": "moli-0"
-    },
-    {
-      "titel": "WOHNUNG • MIETEN\nWohnquartier Rodelberg",
-      "url": "https://www.molitor-immobilien.de/objekt/wohnquartier-rodelberg/",
-      "groesse": 135,
-      "zimmer": 4,
-      "kaltmiete": 490,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 490,
-      "stadtteil": null,
-      "stadt": "Mainz",
-      "quelle": "J. Molitor Immobilien",
-      "preisProQm": 3.63,
-      "mietspiegelRef": 15.37,
-      "preisAbweichungPct": -76.4,
-      "ampel": "Günstig",
-      "_id": "moli-1"
-    },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung in begehrter Lage am Westhafen mit EBK, Balkon & son",
       "url": "https://www.ballwanz.de/objekt/grosszuegige-3-zimmer-wohnung-in-begehrter-lage-am-westhafen-mit-ebk-balkon-sonniger-loggia/",
