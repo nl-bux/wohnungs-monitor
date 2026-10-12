@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-11T11:47:17.559Z",
-  "durationMs": 141795,
+  "timestamp": "2026-10-12T13:49:51.188Z",
+  "durationMs": 133934,
   "totalFound": 11,
   "criteria": {
     "minRooms": 3,
@@ -52,6 +52,24 @@
       "_id": "ball-0"
     },
     {
+      "titel": "Komfort und Energieeffizienz vereint – im PARKTRIO STADTPLATZ",
+      "url": "https://www.ballwanz.de/objekt/komfort-und-energieeffizienz-vereint-im-parktrio-stadtplatz/",
+      "groesse": 84,
+      "zimmer": null,
+      "kaltmiete": 1935,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1935,
+      "stadtteil": null,
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 23.04,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 47.8,
+      "ampel": "Überteuert",
+      "_id": "ball-2"
+    },
+    {
       "titel": "Wohnen in Main Nähe: Großzügiges 3-Zimmer-Loft mit EBK & 2 Bädern",
       "url": "https://www.ballwanz.de/objekt/wohnen-in-main-naehe-grosszuegiges-3-zimmer-loft-mit-ebk-2-baedern/",
       "groesse": 110,
@@ -67,7 +85,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 13.1,
       "ampel": "Leicht erhöht",
-      "_id": "ball-2"
+      "_id": "ball-3"
     },
     {
       "titel": "Wohnen mal anders: 3-Zimmer-Wohnung mit neuer Einbauküche & Wintergarten",
@@ -85,7 +103,25 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 12.2,
       "ampel": "Leicht erhöht",
-      "_id": "ball-3"
+      "_id": "ball-4"
+    },
+    {
+      "titel": "Neubaucharme: Stilvolle 3-Zimmer-Wohnung im PARKTRIO",
+      "url": "https://www.ballwanz.de/objekt/neubaucharme-stilvolle-3-zimmer-wohnung-im-parktrio/",
+      "groesse": 91,
+      "zimmer": 3,
+      "kaltmiete": 2100,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 2100,
+      "stadtteil": null,
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 23.08,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 48,
+      "ampel": "Überteuert",
+      "_id": "ball-5"
     },
     {
       "titel": "Ruhiges Zuhause mit offenem Wohngefühl: 4-Zimmer-Wohnung mit Kamin und zwei Süd-",
@@ -104,24 +140,6 @@
       "preisAbweichungPct": 10,
       "ampel": "Leicht erhöht",
       "_id": "ball-10"
-    },
-    {
-      "titel": "Großzügige 3-Zimmer-Wohnung mit Sonnenbalkon",
-      "url": "https://www.ballwanz.de/objekt/grosszuegige-3-zimmer-wohnung-mit-sonnenbalkon/",
-      "groesse": 91,
-      "zimmer": 3,
-      "kaltmiete": 2130,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2130,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 23.41,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 50.1,
-      "ampel": "Überteuert",
-      "_id": "ball-4"
     },
     {
       "titel": "Moderne 3-Zimmer-Wohnung mit großer Loggia und viel Licht",
@@ -157,40 +175,22 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 45.2,
       "ampel": "Überteuert",
-      "_id": "ball-5"
-    },
-    {
-      "titel": "3-Zimmer-Wohnung mit Loggia und viel Platz zum Wohlfühlen",
-      "url": "https://www.ballwanz.de/objekt/3-zimmer-wohnung-mit-loggia-und-viel-platz-zum-wohlfuehlen/",
-      "groesse": 96,
-      "zimmer": 3,
-      "kaltmiete": 2150,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2150,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 22.4,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 43.7,
-      "ampel": "Überteuert",
       "_id": "ball-6"
     },
     {
-      "titel": "Familienfreundliche 4-Zimmer-Wohnung in Frankfurt-Bockenheim",
-      "url": "https://www.ballwanz.de/objekt/familienfreundliche-4-zimmer-wohnung-in-frankfurt-bockenheim/",
+      "titel": "Neue Räume, neues Glück: Geräumige 4- Zimmer-Wohnung mit sonnigem Balkon",
+      "url": "https://www.ballwanz.de/objekt/neue-raeume-neues-glueck-geraeumige-4-zimmer-wohnung-mit-sonnigem-balkon/",
       "groesse": 98,
-      "zimmer": 4,
-      "kaltmiete": 2250,
+      "zimmer": null,
+      "kaltmiete": 2220,
       "nebenkosten": null,
       "heizkosten": null,
-      "gesamtpreis": 2250,
-      "stadtteil": "Bockenheim",
+      "gesamtpreis": 2220,
+      "stadtteil": null,
       "stadt": "Frankfurt",
       "quelle": "Ballwanz Immobilien",
-      "preisProQm": 22.96,
-      "mietspiegelRef": 15.8,
+      "preisProQm": 22.65,
+      "mietspiegelRef": 15.59,
       "preisAbweichungPct": 45.3,
       "ampel": "Überteuert",
       "_id": "ball-8"
