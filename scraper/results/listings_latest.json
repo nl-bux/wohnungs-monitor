@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-14T10:49:49.449Z",
-  "durationMs": 137101,
+  "timestamp": "2026-10-15T10:32:17.410Z",
+  "durationMs": 132231,
   "totalFound": 11,
   "criteria": {
     "minRooms": 3,
@@ -106,6 +106,24 @@
       "_id": "ball-4"
     },
     {
+      "titel": "Ruhiges Zuhause mit offenem Wohngefühl",
+      "url": "https://www.ballwanz.de/objekt/ruhiges-zuhause-mit-offenem-wohngefuehl/",
+      "groesse": 123,
+      "zimmer": null,
+      "kaltmiete": 2095,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 2095,
+      "stadtteil": null,
+      "stadt": "Frankfurt",
+      "quelle": "Ballwanz Immobilien",
+      "preisProQm": 17.03,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 9.3,
+      "ampel": "Marktüblich",
+      "_id": "ball-10"
+    },
+    {
       "titel": "Neubaucharme: Stilvolle 3-Zimmer-Wohnung im PARKTRIO",
       "url": "https://www.ballwanz.de/objekt/neubaucharme-stilvolle-3-zimmer-wohnung-im-parktrio/",
       "groesse": 91,
@@ -122,24 +140,6 @@
       "preisAbweichungPct": 48,
       "ampel": "Überteuert",
       "_id": "ball-5"
-    },
-    {
-      "titel": "Ruhiges Zuhause mit offenem Wohngefühl: 4-Zimmer-Wohnung mit Kamin und zwei Süd-",
-      "url": "https://www.ballwanz.de/objekt/ruhiges-zuhause-mit-offenem-wohngefuehl-4-zimmer-wohnung-mit-kamin-und-zwei-sued-terrassen/",
-      "groesse": 123,
-      "zimmer": 4,
-      "kaltmiete": 2110,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 2110,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 17.15,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 10,
-      "ampel": "Leicht erhöht",
-      "_id": "ball-10"
     },
     {
       "titel": "Moderne 3-Zimmer-Wohnung mit großer Loggia und viel Licht",
