@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-18T10:05:10.213Z",
-  "durationMs": 142486,
-  "totalFound": 15,
+  "timestamp": "2026-10-19T11:30:15.379Z",
+  "durationMs": 143589,
+  "totalFound": 14,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -52,24 +52,6 @@
       "_id": "ball-1"
     },
     {
-      "titel": "Speicher Quartier: 3-Zimmer-Wohnung mit Platz für die ganze Familie",
-      "url": "https://www.ballwanz.de/objekt/speicher-quartier-3-zimmer-wohnung-mit-platz-fuer-die-ganze-familie/",
-      "groesse": 110,
-      "zimmer": 3,
-      "kaltmiete": 1840,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 1840,
-      "stadtteil": null,
-      "stadt": "Frankfurt",
-      "quelle": "Ballwanz Immobilien",
-      "preisProQm": 16.73,
-      "mietspiegelRef": 15.59,
-      "preisAbweichungPct": 7.3,
-      "ampel": "Marktüblich",
-      "_id": "ball-2"
-    },
-    {
       "titel": "Helle Wohnung mit durchdachtem Grundriss und Terrasse zum Innenhof",
       "url": "https://www.ballwanz.de/objekt/helle-wohnung-mit-durchdachtem-grundriss-und-terrasse-zum-innenhof/",
       "groesse": 95,
@@ -85,7 +67,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 30.3,
       "ampel": "Überteuert",
-      "_id": "ball-3"
+      "_id": "ball-2"
     },
     {
       "titel": "Wohnen in Main Nähe: Großzügiges 3-Zimmer-Loft mit EBK & 2 Bädern",
@@ -103,7 +85,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 13.1,
       "ampel": "Leicht erhöht",
-      "_id": "ball-4"
+      "_id": "ball-3"
     },
     {
       "titel": "Wohnen mal anders: 3-Zimmer-Wohnung mit neuer Einbauküche & Wintergarten",
@@ -121,7 +103,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 12.2,
       "ampel": "Leicht erhöht",
-      "_id": "ball-5"
+      "_id": "ball-4"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Sonnenbalkon",
@@ -139,7 +121,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 42.4,
       "ampel": "Überteuert",
-      "_id": "ball-6"
+      "_id": "ball-5"
     },
     {
       "titel": "Neue Räume, neues Glück: Charmante 3-Zimmer-Wohnung mit sonnigem Balkon",
@@ -157,7 +139,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 42.4,
       "ampel": "Überteuert",
-      "_id": "ball-7"
+      "_id": "ball-6"
     },
     {
       "titel": "Familienfreundliche 3-Zimmer-Wohnung mit klarer Raumaufteilung",
@@ -175,7 +157,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 36.4,
       "ampel": "Überteuert",
-      "_id": "ball-8"
+      "_id": "ball-7"
     },
     {
       "titel": "Moderne 3-Zimmer-Wohnung mit großer Loggia und viel Licht",
@@ -193,7 +175,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 30.9,
       "ampel": "Überteuert",
-      "_id": "ball-9"
+      "_id": "ball-8"
     },
     {
       "titel": "Ruhiges Zuhause mit offenem Wohngefühl",
@@ -211,7 +193,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 9.3,
       "ampel": "Marktüblich",
-      "_id": "ball-14"
+      "_id": "ball-13"
     },
     {
       "titel": "3-Zimmer-Wohnung mit durchdachtem Grundriss und Loggia",
@@ -229,7 +211,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 41.3,
       "ampel": "Überteuert",
-      "_id": "ball-10"
+      "_id": "ball-9"
     },
     {
       "titel": "Neue Räume, neues Glück: Geräumige 4- Zimmer-Wohnung mit sonnigem Balkon",
@@ -247,7 +229,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 38.8,
       "ampel": "Überteuert",
-      "_id": "ball-11"
+      "_id": "ball-10"
     },
     {
       "titel": "3-Zimmer-Wohnung mit offenem Wohn- und Essbereich",
@@ -265,7 +247,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 47.7,
       "ampel": "Überteuert",
-      "_id": "ball-12"
+      "_id": "ball-11"
     },
     {
       "titel": "Großzügige 3-Zimmer-Wohnung mit Loggia im Rebstock-Areal",
@@ -283,7 +265,7 @@
       "mietspiegelRef": 15.59,
       "preisAbweichungPct": 48.3,
       "ampel": "Überteuert",
-      "_id": "ball-13"
+      "_id": "ball-12"
     }
   ]
 }
