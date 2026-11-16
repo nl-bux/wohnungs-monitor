@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-15T13:07:52.916Z",
-  "durationMs": 141200,
-  "totalFound": 38,
+  "timestamp": "2026-11-16T14:14:35.069Z",
+  "durationMs": 147036,
+  "totalFound": 62,
   "criteria": {
     "minRooms": 3,
     "maxRooms": 4,
@@ -15,6 +15,438 @@
     }
   ],
   "listings": [
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/59699/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-0"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/z2d87n/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-1"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/510706/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-2"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/515620/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-3"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/515613/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-4"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/d4p8zy/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-5"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/515035/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-6"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/5vt37z/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-7"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/514171/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-8"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/h7qe9e/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-9"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/339683/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-10"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/510711/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-11"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/514185/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-12"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/q9v2j2/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-13"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/7n48kt/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-14"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/512536/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-15"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/505180/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-16"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/513746/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-17"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/509406/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-18"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/z9q7vz/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-19"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/513378/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-20"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/513374/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-21"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/676a5g/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-22"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/508305/",
+      "groesse": 80,
+      "zimmer": 3,
+      "kaltmiete": 1300,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1300,
+      "stadtteil": "Eschersheim",
+      "stadt": "Frankfurt",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 16.25,
+      "mietspiegelRef": 15.59,
+      "preisAbweichungPct": 4.2,
+      "ampel": "Marktüblich",
+      "_id": "ohne-23"
+    },
     {
       "titel": "Karte anzeigen",
       "url": "https://www.ohne-makler.net/immobilie/488104/",
@@ -31,7 +463,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-0"
+      "_id": "ohne-24"
     },
     {
       "titel": "Karte anzeigen",
@@ -49,7 +481,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-1"
+      "_id": "ohne-25"
     },
     {
       "titel": "Karte anzeigen",
@@ -67,7 +499,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-2"
+      "_id": "ohne-26"
     },
     {
       "titel": "Karte anzeigen",
@@ -85,7 +517,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-3"
+      "_id": "ohne-27"
     },
     {
       "titel": "Karte anzeigen",
@@ -103,7 +535,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-4"
+      "_id": "ohne-28"
     },
     {
       "titel": "Karte anzeigen",
@@ -121,7 +553,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-5"
+      "_id": "ohne-29"
     },
     {
       "titel": "Karte anzeigen",
@@ -139,7 +571,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-6"
+      "_id": "ohne-30"
     },
     {
       "titel": "Karte anzeigen",
@@ -157,7 +589,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-7"
+      "_id": "ohne-31"
     },
     {
       "titel": "Karte anzeigen",
@@ -175,7 +607,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-8"
+      "_id": "ohne-32"
     },
     {
       "titel": "Karte anzeigen",
@@ -193,7 +625,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-9"
+      "_id": "ohne-33"
     },
     {
       "titel": "Karte anzeigen",
@@ -211,7 +643,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-10"
+      "_id": "ohne-34"
     },
     {
       "titel": "Karte anzeigen",
@@ -229,7 +661,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-11"
+      "_id": "ohne-35"
     },
     {
       "titel": "Karte anzeigen",
@@ -247,7 +679,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-12"
+      "_id": "ohne-36"
     },
     {
       "titel": "Karte anzeigen",
@@ -265,7 +697,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-13"
+      "_id": "ohne-37"
     },
     {
       "titel": "Karte anzeigen",
@@ -283,7 +715,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-14"
+      "_id": "ohne-38"
     },
     {
       "titel": "Karte anzeigen",
@@ -301,7 +733,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-15"
+      "_id": "ohne-39"
     },
     {
       "titel": "Karte anzeigen",
@@ -319,7 +751,25 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-16"
+      "_id": "ohne-40"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/2yd985/",
+      "groesse": 91,
+      "zimmer": 4,
+      "kaltmiete": 1350,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1350,
+      "stadtteil": "Finthen",
+      "stadt": "Mainz",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 14.84,
+      "mietspiegelRef": 15.37,
+      "preisAbweichungPct": -3.5,
+      "ampel": "Günstig",
+      "_id": "ohne-41"
     },
     {
       "titel": "Karte anzeigen",
@@ -337,7 +787,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-17"
+      "_id": "ohne-42"
     },
     {
       "titel": "Karte anzeigen",
@@ -355,7 +805,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-18"
+      "_id": "ohne-43"
     },
     {
       "titel": "Karte anzeigen",
@@ -373,7 +823,25 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-19"
+      "_id": "ohne-44"
+    },
+    {
+      "titel": "Karte anzeigen",
+      "url": "https://www.ohne-makler.net/immobilie/6cy53t/",
+      "groesse": 91,
+      "zimmer": 4,
+      "kaltmiete": 1350,
+      "nebenkosten": null,
+      "heizkosten": null,
+      "gesamtpreis": 1350,
+      "stadtteil": "Finthen",
+      "stadt": "Mainz",
+      "quelle": "ohne-makler.net",
+      "preisProQm": 14.84,
+      "mietspiegelRef": 15.37,
+      "preisAbweichungPct": -3.5,
+      "ampel": "Günstig",
+      "_id": "ohne-45"
     },
     {
       "titel": "Karte anzeigen",
@@ -391,7 +859,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-20"
+      "_id": "ohne-46"
     },
     {
       "titel": "Karte anzeigen",
@@ -409,43 +877,7 @@
       "mietspiegelRef": 15.37,
       "preisAbweichungPct": -3.5,
       "ampel": "Günstig",
-      "_id": "ohne-21"
-    },
-    {
-      "titel": "Karte anzeigen",
-      "url": "https://www.ohne-makler.net/immobilie/d465ag/",
-      "groesse": 91,
-      "zimmer": 4,
-      "kaltmiete": 1350,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 1350,
-      "stadtteil": "Finthen",
-      "stadt": "Mainz",
-      "quelle": "ohne-makler.net",
-      "preisProQm": 14.84,
-      "mietspiegelRef": 15.37,
-      "preisAbweichungPct": -3.5,
-      "ampel": "Günstig",
-      "_id": "ohne-22"
-    },
-    {
-      "titel": "Karte anzeigen",
-      "url": "https://www.ohne-makler.net/immobilie/3ct2mj/",
-      "groesse": 91,
-      "zimmer": 4,
-      "kaltmiete": 1350,
-      "nebenkosten": null,
-      "heizkosten": null,
-      "gesamtpreis": 1350,
-      "stadtteil": "Finthen",
-      "stadt": "Mainz",
-      "quelle": "ohne-makler.net",
-      "preisProQm": 14.84,
-      "mietspiegelRef": 15.37,
-      "preisAbweichungPct": -3.5,
-      "ampel": "Günstig",
-      "_id": "ohne-23"
+      "_id": "ohne-47"
     },
     {
       "titel": "Komfort und Energieeffizienz vereint – im PARKTRIO STADTPLATZ",
