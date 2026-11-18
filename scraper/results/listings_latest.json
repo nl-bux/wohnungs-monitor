@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-17T15:06:34.868Z",
-  "durationMs": 129730,
+  "timestamp": "2026-11-18T14:49:41.026Z",
+  "durationMs": 152967,
   "totalFound": 38,
   "criteria": {
     "minRooms": 3,
@@ -12,6 +12,10 @@
     {
       "scraper": "VonPoll",
       "error": "page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.von-poll.com/de/wohnung-mieten/frankfurt\", waiting until \"networkidle\"\n"
+    },
+    {
+      "scraper": "EngelVoelkers",
+      "error": "page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.engelvoelkers.com/de/de/immobilien/res/mieten/wohnung/hessen/frankfurt-am-main\", waiting until \"networkidle\"\n"
     }
   ],
   "listings": [
@@ -395,7 +399,7 @@
     },
     {
       "titel": "Karte anzeigen",
-      "url": "https://www.ohne-makler.net/immobilie/t5j28g/",
+      "url": "https://www.ohne-makler.net/immobilie/438916/",
       "groesse": 91,
       "zimmer": 4,
       "kaltmiete": 1350,
@@ -413,7 +417,7 @@
     },
     {
       "titel": "Karte anzeigen",
-      "url": "https://www.ohne-makler.net/immobilie/438916/",
+      "url": "https://www.ohne-makler.net/immobilie/d465ag/",
       "groesse": 91,
       "zimmer": 4,
       "kaltmiete": 1350,
@@ -431,7 +435,7 @@
     },
     {
       "titel": "Karte anzeigen",
-      "url": "https://www.ohne-makler.net/immobilie/d465ag/",
+      "url": "https://www.ohne-makler.net/immobilie/3ct2mj/",
       "groesse": 91,
       "zimmer": 4,
       "kaltmiete": 1350,
